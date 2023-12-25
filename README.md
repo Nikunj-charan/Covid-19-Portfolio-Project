@@ -1,4 +1,4 @@
-Covid-19 SQL Party :- Crunching pandemic numbers with T-SQL and Excel – infection, death, vaccinations – the whole shebang.
+Covid-19 Data Exploration :- Crunching pandemic numbers with T-SQL and Excel – infection, death, vaccinations – the whole shebang.
 
 Netflix & Python :- Investigating movies on Amazon Prime and Netflix. Uncovered correlations that even surprised my cat. 🎬🐾
 
