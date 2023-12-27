@@ -8,4 +8,6 @@ OfferUp Scrap-a-Palooza :- Web-scraping 'OfferUp' for used cars near Richmond, V
 
 Dive into each folder for the full scoop. Got questions? Drop em like they're hot! 🔥
 
+Data Profession Power BI - Explore the insights of 650 data professionals through this Power BI visualization project. The included PDF file showcases survey results, providing a comprehensive snapshot of their experiences and perspectives within the field.
+
 Cheers to data mischief! 📊🎉
